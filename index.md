@@ -70,3 +70,4 @@ To contribute or to give feedback, [start a discussion on the About Feeds repo o
 
 --Matt
 
+The content of this site is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](https://creativecommons.org/licenses/by-nc-sa/3.0/)
