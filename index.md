@@ -37,7 +37,7 @@ Choose your app, and either sign up or download it.
 
 # 3. How do I use my new newsreader app to subscribe to a feed?
 
-**You'll need the Feed URL.** To get this, go the website you want to subscribe to, and find that RSS link or the feed icon. Then...
+**You'll need the Feed URL.** To get this, go to the website you want to subscribe to and find that RSS link or the feed icon. Then...
 
 * On **desktop,** right click on the link and choose "Copy Link Address" or similar.
 * On **mobile,** tap and hold the link until a menu comes up. Choose "Copy link" or similar.
@@ -60,7 +60,7 @@ and **paste in the Feed URL.**
 - for **users,** they can read the latest content easily without being bothered by ads and pop-overs... It's a calmer, more pleasant reading experience. And the latest content is guaranteed to get through, and not get lost in the email inbox or get skipped over by a Facebook algorithm.
 - for **site owners,** they can reach readers directly, without having to chase virality with clickbait headlines on Twitter, or pay for access to users on Facebook. Feeds and newsreaders together favour the indies and the smaller players.
 
-**No-one owns web feeds, so there's no-one harvesing all the personal data and profiting off it,** or collecting email addresses to spam later. Subscribing is opt-in, so it's spam proof. And that's great.
+**No-one owns web feeds, so there's no-one harvesting all the personal data and profiting off it,** or collecting email addresses to spam later. Subscribing is opt-in, so it's spam proof. And that's great.
 
 **But the lack of ownership is also a problem.** Because no-one owns web feeds, it's no-one's responsibility to ensure a great user experience. In particular, I feel that web feeds are not friendly for new users. [I wrote about some of my problems with RSS here.](http://interconnected.org/home/2020/07/29/improving_rss)
 
