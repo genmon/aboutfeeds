@@ -52,6 +52,8 @@ and **paste in the Feed URL.**
 
 **You're done!** You can now read the latest content in your newsreader.
 
+Sometimes, websites won’t have a link to an RSS feed. That doesn’t mean you’re out of luck, though! Some popular blog platforms create RSS feeds by default, and newsreader apps are sometimes able to find those feeds automatically. If you can’t find an RSS link on a page, try adding the URL of the page you’re on to your newsreader app.
+
 
 # Who made this site?
 
