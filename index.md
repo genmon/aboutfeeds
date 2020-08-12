@@ -6,7 +6,7 @@ You just need a special app called a **newsreader.**
 
 **This site explains how to get started.**
 
-# 1. What is a feed? _a.k.a RSS.__
+# 1. What is a feed? (a.k.a RSS.)
 
 A feed is also known as a _"web feed"_ and the technical term (which you'll see a lot) is _"RSS feed."_ A feed contains the latest content in a form that your **newsreader app** understands. (Your newsreader checks the feed automatically, every few hours.)
 
