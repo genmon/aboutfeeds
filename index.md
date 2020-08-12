@@ -37,7 +37,7 @@ Choose your app, and either sign up or download it.
 
 # 3. How do I use my new newsreader app to subscribe to a feed?
 
-**You'll need the Feed URL.** To get this, go the website you want to subscribe to, and find that RSS link or the feed icon. Then...
+**You'll need the Feed URL.** To get this, go to the website you want to subscribe to and find that RSS link or the feed icon. Then...
 
 * On **desktop,** right click on the link and choose "Copy Link Address" or similar.
 * On **mobile,** tap and hold the link until a menu comes up. Choose "Copy link" or similar.
