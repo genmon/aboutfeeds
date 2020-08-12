@@ -66,6 +66,8 @@ and **paste in the Feed URL.**
 
 My hope is that **About Feeds** can become the default _"Help! What is this?"_ link next to every web feed icon on the web. It's bare bones right now, and I have a ton of ideas of how to make this site more and more useful.
 
+_**Are you a site owner?** Please consider adding a [Help! What is this?](https://aboutfeeds.com) link (or similar) next to your feed link or RSS icon._
+
 To contribute or to give feedback, [start a discussion on the About Feeds repo on GitHub](https://github.com/genmon/aboutfeeds) or contact me. My email address is [over here](http://interconnected.org).
 
 --Matt
