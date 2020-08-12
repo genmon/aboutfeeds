@@ -20,7 +20,7 @@ You won't miss content _(unlike Facebook, there's no algorithm deciding to drop 
 
 # 2. How do I get a newsreader app?
 
-**To subscribe to feeds, you'll need a newsreader app.** A newsreader app feels a little like an email ap, in that there is an inbox of all the latest content, or like Facebook in that there is a newsfeed from many different sources.
+**To subscribe to feeds, you'll need a newsreader app.** A newsreader app feels a little like an email app, in that there is an inbox of all the latest content, or like Facebook in that there is a newsfeed from many different sources.
 
 There are many different newsreader apps to choose from.
 
