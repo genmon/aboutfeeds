@@ -10,7 +10,7 @@ You just need a special app called a **newsreader.**
 
 A feed is also known as a _"web feed"_ and the technical term (which you'll see a lot) is _"RSS feed."_ A feed contains the latest content in a form that your **newsreader app** understands. (Your newsreader checks the feed automatically, every few hours.)
 
-**Tons of websites already have feeds,** mostly news sites and blogs. You'll often see a link at the bottom of the page that says _"RSS"_ or an orange icon. The [Web Feed article](https://en.wikipedia.org/wiki/Web_feed) at Wikipedia has an example.
+**Tons of websites already have feeds,** mostly news sites and blogs. You'll often see a link at the bottom of the page that says _"RSS"_ or an orange icon (like these: <img src="icons/orange-square.svg" height="16"> <img src="icons/orange-icon.svg" height="16">). The [Web Feed article](https://en.wikipedia.org/wiki/Web_feed) at Wikipedia has an example.
 
 Whenever you see a website with a feed, that means you can subscribe to that site.
 
@@ -73,3 +73,5 @@ To contribute or to give feedback, [start a discussion on the About Feeds repo o
 --Matt
 
 The content of this site is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+The sample icons are from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Feed-icon.svg) and are used under the [Mozilla Public License Version 1.1.](https://www.mozilla.org/MPL/1.1/)
