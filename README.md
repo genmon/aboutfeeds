@@ -17,7 +17,7 @@ Clone this repo and enter the directory.
 Install other requirements:
 
 ```bash
-bundler install
+bundle install
 ```
 
 Run the site locally:
