@@ -11,7 +11,7 @@
   <body>
     {% include header.html %}
 
-    {% if page.show_intro %}{% include intro.html %}{% endif %}
+    {% if page.layout == 'home' %}{% include intro.html %}{% endif %}
 
     <article class="container-lg px-3 my-5 markdown-body">
       {{ content }}
