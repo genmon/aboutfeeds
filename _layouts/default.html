@@ -10,10 +10,15 @@
   </head>
   <body>
     {% include header.html %}
+
+    {% if page.show_intro %}{% include intro.html %}{% endif %}
+
     <article class="container-lg px-3 my-5 markdown-body">
       {{ content }}
     </article>
+
     {% include footer.html %}
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
     {% if site.google_analytics %}

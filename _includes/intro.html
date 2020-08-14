@@ -1,0 +1,6 @@
+<header class="bg-purple-light">
+  <div class="container-lg px-3 py-4 my-5 markdown-body">
+    {% capture intro-copy %}{% include intro-copy.md %}{% endcapture %}
+    {{ intro-copy | markdownify }}
+  </div>
+</header>
