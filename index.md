@@ -1,11 +1,3 @@
-Use feeds to **subscribe** to websites and get the **latest content in one place.**
-
-**Feeds put you in control.** It's like subscribing to a podcast, or following a company on Facebook. You don't need to pay or hand over your email address. And you get the latest content without having to visit lots of sites, and without cluttering up your inbox. Had enough? Unsubscribe from the feed.
-
-You just need a special app called a **newsreader.**
-
-**This site explains how to get started.**
-
 # 1. What is a feed? (a.k.a. RSS)
 
 A feed is also known as a _"web feed"_ and the technical term (which you'll see a lot) is _"RSS feed."_ A feed contains the latest content in a form that your **newsreader app** understands. (Your newsreader checks the feed automatically, every few hours.)
