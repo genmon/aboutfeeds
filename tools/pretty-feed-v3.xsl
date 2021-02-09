@@ -20,7 +20,7 @@ to aboutfeeds.com for new user onboarding. See it in action:
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="/home/static/styles/pretty-feed-v2.xsl" type="text/xsl"?>
+<?xml-stylesheet href="/PATH-TO-YOUR-STYLES/pretty-feed-v3.xsl" type="text/xsl"?>
 ```
 
 3. Serve the feed with the following HTTP headers:
