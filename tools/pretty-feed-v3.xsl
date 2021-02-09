@@ -3,16 +3,18 @@
 
 # Pretty Feed
 
-Styles an RSS/Atom feed, making it friendly for humans viewers, and adding a link to aboutfeeds.com for new user onboarding. See it in action:
+Styles an RSS/Atom feed, making it friendly for humans viewers, and adds a link
+to aboutfeeds.com for new user onboarding. See it in action:
 
    http://interconnected.org/home
 
 
 ## How to use
 
-1. Download this XML stylesheet from the following URL and host it on your own domain (this is a limitation of XSL in browsers):
+1. Download this XML stylesheet from the following URL and host it on your own
+   domain (this is a limitation of XSL in browsers):
 
-   XXX
+   https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl
 
 2. Include the XSL at the top of the RSS/Atom feed, like:
 
@@ -31,7 +33,14 @@ x-content-type-options: nosniff
 
 ## Limitations
 
-Styling will *deactivate* the ability for a newsreader to auto-detect a feed and open it. However, this is a benefit to new users who won't have a newsreader installed, and are saved from seeing or downloaded obscure XML content. For existing feed users, they will know to copy-and-paste the feed URL, and they can also see an in-browser preview of the feed.
+- The "nosniff" header will *prevent* the browser from detecting the feed and
+  opening a newsreader, but the header is required for styling. This is a trade
+  off, but it's a benefit to new users who won't have a newsreader installed,
+  and they are saved from seeing or downloaded obscure XML content. For existing
+  newsreader users, they will know to copy-and-paste the feed URL, and they get
+  the benefit of an in-browser feed preview.
+- Feed styling is only available to site owners who control their own platform.
+  The need to add both XML and HTTP headers makes this a limited solution.
 
 
 ## Credits
