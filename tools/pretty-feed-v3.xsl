@@ -30,17 +30,21 @@ Content-Type: application/xml; charset=utf-8  # not application/rss+xml
 x-content-type-options: nosniff
 ```
 
+(These headers are required to style feeds for users with Safari on iOS/Mac.)
+
+
 
 ## Limitations
 
-- The "nosniff" header will *prevent* the browser from detecting the feed and
-  opening a newsreader, but the header is required for styling. This is a trade
-  off, but it's a benefit to new users who won't have a newsreader installed,
-  and they are saved from seeing or downloaded obscure XML content. For existing
-  newsreader users, they will know to copy-and-paste the feed URL, and they get
-  the benefit of an in-browser feed preview.
-- Feed styling is only available to site owners who control their own platform.
-  The need to add both XML and HTTP headers makes this a limited solution.
+- Styling the feed *prevents* the browser from automatically opening a
+  newsreader application. This is a trade off, but it's a benefit to new users
+  who won't have a newsreader installed, and they are saved from seeing or
+  downloaded obscure XML content. For existing newsreader users, they will know
+  to copy-and-paste the feed URL, and they get the benefit of an in-browser feed
+  preview.
+- Feed styling, for all browsers, is only available to site owners who control
+  their own platform. The need to add both XML and HTTP headers makes this a
+  limited solution.
 
 
 ## Credits
