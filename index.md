@@ -21,6 +21,7 @@ There are many different newsreader apps to choose from.
 * [Feedly](https://feedly.com) -- free up to 100 subscriptions. Web/Android/iOS.
 * [Inoreader](https://www.inoreader.com) -- free up to 150 subscriptions. Web/Android/iOS.
 * [NetNewsWire](https://ranchero.com/netnewswire/) -- free. iOS/Mac.
+* [nosh](http://nosh.rocks) == free. Web(PWA).
 
 _It doesn't matter which you choose as newsreaders make it fairly easy to export your list of subscriptions and move them to another app in the future. So choose one you like the look of._
 
