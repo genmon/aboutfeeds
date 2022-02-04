@@ -20,7 +20,7 @@ There are many different newsreader apps to choose from.
 
 * [Feedly](https://feedly.com) -- free up to 100 subscriptions. Web/Android/iOS.
 * [Inoreader](https://www.inoreader.com) -- free up to 150 subscriptions. Web/Android/iOS.
-* [NetNewsWire](https://ranchero.com/netnewswire/) -- free. iOS/Mac.
+* [NetNewsWire](https://netnewswire.com) -- free. iOS/Mac.
 
 _It doesn't matter which you choose as newsreaders make it fairly easy to export your list of subscriptions and move them to another app in the future. So choose one you like the look of._
 
@@ -48,12 +48,10 @@ and **paste in the Feed URL.**
 
 ## Who made this site?
 
-**About Feeds** is a free site from [Matt Webb](http://interconnected.org). I made this site because _using web feeds for the first time is hard,_ and we can fix that. [Read about why this site exists.](why)
-
-My hope is that **About Feeds** can become the default _"Help! What is this?"_ link next to every web feed icon on the web. It's bare bones right now, and I have a ton of ideas of how to make this site more and more useful.
+**About Feeds** is a free site from [Matt Webb](https://interconnected.org). I made this site because _using web feeds for the first time is hard,_ and we can fix that. [Read about why this site exists.](why)
 
 _**Are you a site owner?** Please consider adding a [Help! What is a feed?](https://aboutfeeds.com) link (or similar) next to your feed link or RSS icon. If you have access to the code, style your feed to make it friendly to new users with [pretty-feed.xsl](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl)._
 
-To contribute or to give feedback, [start a discussion on the About Feeds repo on GitHub](https://github.com/genmon/aboutfeeds) or contact me. My email address is [over here](http://interconnected.org).
+To contribute or to give feedback, [start a discussion on the About Feeds repo on GitHub](https://github.com/genmon/aboutfeeds) or contact me. My email address is [over here](https://interconnected.org).
 
 --Matt
