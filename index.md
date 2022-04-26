@@ -16,11 +16,12 @@ You won't miss content _(unlike Facebook, there's no algorithm deciding to drop 
 
 There are many different newsreader apps to choose from.
 
-**You can install an app on your phone or laptop,** or you can use a newsreader app through a website. Here are three apps, in alphabetical order:
+**You can install an app on your phone or laptop,** or you can use a newsreader app through a website. Here are four apps, in alphabetical order:
 
 * [Feedly](https://feedly.com) -- free up to 100 subscriptions. Web/Android/iOS.
 * [Inoreader](https://www.inoreader.com) -- free up to 150 subscriptions. Web/Android/iOS.
 * [NetNewsWire](https://netnewswire.com) -- free. iOS/Mac.
+* [The Old Reader](https://theoldreader.com) -- free/ad-supported up to 100 subscriptions. Web and apps for many platforms.
 
 _It doesn't matter which you choose as newsreaders make it fairly easy to export your list of subscriptions and move them to another app in the future. So choose one you like the look of._
 
