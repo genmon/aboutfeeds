@@ -19,7 +19,7 @@ You won't miss content _(unlike Facebook, there's no algorithm deciding to drop 
 
 There are many different newsreader apps to choose from.
 
-**You can install an app on your phone or laptop,** or you can use a newsreader app through a website. Here are four apps, in alphabetical order:
+**Install an app on your phone or laptop,** or use a newsreader app through a website. Here are four apps, in alphabetical order:
 
 * [Feedly](https://feedly.com) -- free up to 100 subscriptions. Web/Android/iOS.
 * [Inoreader](https://www.inoreader.com) -- free up to 150 subscriptions. Web/Android/iOS.
@@ -47,6 +47,13 @@ Then go to your newsreader app and look for a function which will be named somet
 and **paste in the Feed URL.**
 
 **You're done!** You can now read the latest content in your newsreader.
+
+
+# 4. What next?
+
+**Find more to read!** Browse [Blogroll](https://blogroll.org), a hand-curated directory of blogs, organised by topic.
+
+**Start a blog of your own!** [Get Blogging!](https://getblogging.org) is a guide to the practicalities of starting a blog of your own.
 
 ----
 
