@@ -53,7 +53,7 @@ and **paste in the Feed URL.**
 
 **Find more to read!** Browse [Blogroll](https://blogroll.org), a hand-curated directory of blogs, organised by topic.
 
-**Start a blog of your own!** [Get Blogging!](https://getblogging.org) is a guide to the practicalities of starting a blog of your own.
+**Start a blog of your own!** [Get Blogging!](https://getblogging.org) is a guide to the practicalities of starting a blog.
 
 ----
 
