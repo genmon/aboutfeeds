@@ -51,7 +51,7 @@ and **paste in the Feed URL.**
 
 # 4. What next?
 
-**Find more to read!** Browse [Blogroll](https://blogroll.org), a hand-curated directory of blogs, organised by topic.
+**Find more to read!** Browse [Blogroll](https://blogroll.org) and [ooh.directory](https://ooh.directory), both hand-curated directories of blogs, organised by topic.
 
 **Start a blog of your own!** [Get Blogging!](https://getblogging.org) is a guide to the practicalities of starting a blog.
 
