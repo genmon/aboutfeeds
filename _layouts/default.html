@@ -7,6 +7,9 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {%- if jekyll.environment == 'production' and site.fathom_analytics -%}
+    {%- include fathom-analytics.html -%}
+    {%- endif -%}
   </head>
   <body>
     {% include header.html %}
